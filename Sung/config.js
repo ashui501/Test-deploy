@@ -19,13 +19,13 @@ const help = {
 // CONSTANTS //
 
 const Config = {
-    'Token' : "Bot Token here",
+    'Token' : "7241431050:AAFbtr34l4GBBbQ7ZYEOus8XYlNwbGH1twA",
     'Start_P' : "https://graph.org//file/6a197da7a1e166e62cbda.jpg",
-    'Support_id' : "Support GROUP",
-    "Owner" : 5146000168,
+    'Support_id' : "TOJIKA_SUPPORT",
+    "Owner" : 5758713974,
     "devs" : [5146000168],
     "Help_data" : help,
-    "Mongo_DB" : "Your Mongo Db uri"
+    "Mongo_DB" : "mongodb+srv://tiwarireeta004:peqxLEd36RAg7ors@cluster0.furypd3.mongodb.net/?retryWrites=true&w=majority"
 } ;
 
 
